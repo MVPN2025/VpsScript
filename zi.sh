@@ -2,7 +2,7 @@
 # ZIVPN UDP + Admin Panel One-Click Installer
 # Port per User System (No GB quota, HWID field only)
 # Status = Expire Date only (Online/Expiring/Offline)
-# Script Owner By: JueHtet (panel custom)
+# Script Owner By: MinThanWin (panel custom)
 
 set -e
 export LC_ALL=C
